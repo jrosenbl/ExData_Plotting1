@@ -1,3 +1,9 @@
+Note from Jay: my repository has 5 R code files instead of 4.  Since
+the code to read in the data is common to all 4 of the plots, I put it
+in its own file 'read\_data.R'.  This file defines a function for
+inputting the data named 'read\_data()' that is used in each plot
+script.
+
 ## Introduction
 
 This assignment uses data from
